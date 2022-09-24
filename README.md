@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oraaaaa" alt="oraaaaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paxapostolic" target="blank"><img src="https://img.shields.io/twitter/follow/paxapostolic?logo=twitter&style=for-the-badge" alt="paxapostolic" /></a> </p>
 
 - 🔭 I’m currently working on **Eklesia**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linktr.ee/eklesia.catholique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linktr.ee/eklesia.catholique" height="30" width="40" /></a>
+<a href="https://twitter.com/paxapostolic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paxapostolic" height="30" width="40" /></a>
 <a href="https://discord.gg/hqne4qTC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hqne4qTC" height="30" width="40" /></a>
 </p>
 
